@@ -1,4 +1,4 @@
-## 基于Java+springboot房屋租赁管理系统006
+# 基于Java+springboot房屋租赁管理系统
 
 - <b>完整代码获取地址：从戎源码网 ([https://armycodes.com/](https://armycodes.com/))</b>
 - <b>技术探讨、资料分享，请加QQ群：692619798</b> 
